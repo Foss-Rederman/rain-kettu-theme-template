@@ -1,111 +1,111 @@
 {
-    "name": "<name here>",
-    "description": "<desc here>",
+    "name": "<BIG SHOT>",
+    "description": "A NEO shade of pink and yellow, KROMER not included.",
     "authors": [
         {
-            "name": "<discord handle here>",
+            "name": "<@fossredermann>",
             "id": "<user id here>"
         }
     ],
     "semanticColors": {
         "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "<hex>"
+            "#0D0710"
         ],
         "BACKGROUND_MOD_MUTED": [
-            "<hex>"
+            "#1A0E1F"
         ],
-		"PANEL_BG": [
-			"<hex>"
-		],
+        "PANEL_BG": [
+            "#130A17"
+        ],
         "BACKGROUND_SURFACE_RAISED": [
-            "<hex>"
+            "#221327"
         ],
-		"BACKGROUND_BRAND": [
-			"<hex>"
-		],
+        "BACKGROUND_BRAND": [
+            "#FF2E92"
+        ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "<hex>"
+            "#1A0E1F"
         ],
-		"INPUT_BACKGROUND_DEFAULT": [
-			"<hex>"
-		],
+        "INPUT_BACKGROUND_DEFAULT": [
+            "#1A0E1F"
+        ],
         "INTERACTIVE_TEXT_DEFAULT": [
-            "<hex>"
+            "#FFD23E"
         ],
-		"EMBED_BACKGROUND": [
-			"<hex>"
-		],
-		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-			"<hex>"
-		]
+        "EMBED_BACKGROUND": [
+            "#130A17"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#26152B"
+        ]
     },
     "rawColors": {
-        "PRIMARY_500": "<hex>",
-        "PRIMARY_100": "<hex>",
-        "PRIMARY_200": "<hex>",
-        "PRIMARY_300": "<hex>",
-        "PRIMARY_360": "<hex>",
-        "PRIMARY_400": "<hex>",
-        "PRIMARY_600": "<hex>",
-        "PRIMARY_630": "<hex>",
-        "PRIMARY_660": "<hex>",
-        "PRIMARY_700": "<hex>",
-        "PRIMARY_800": "<hex>",
-        "BLACK_500": "<hex>",
-        "BRAND_260": "<hex>",
-        "BRAND_360": "<hex>",
-		"BRAND_500": "<hex>",
-        "BRAND_560": "<hex>",
-        "YELLOW_300": "<hex>",
-        "GREEN_600": "<hex>",
-        "RED_400": "<hex>",
-        "WHITE_500": "<hex>",
-        "GREEN_360": "<hex>",
-		"BLUE_345": "<hex>",
-		"PLUM_24": "<hex>",
-        "PLUM_23": "<hex>",
-		"PLUM_22": "<hex>",
-        "PLUM_20": "<hex>",
-		"PLUM_19": "<hex>",
-        "PLUM_18": "<hex>",
-        "PLUM_17": "<hex>",
-        "PLUM_16": "<hex>",
-        "PLUM_15": "<hex>",
-        "PLUM_13": "<hex>",
-        "PLUM_10": "<hex>",
-        "PLUM_3": "<hex>",
-        "PLUM_9": "<hex>",
-		"PLUM_6": "<hex>",
-		"PLUM_1": "<hex>"
+        "PRIMARY_500": "#8A2E82",
+        "PRIMARY_100": "#FCEFFA",
+        "PRIMARY_200": "#F0C9EC",
+        "PRIMARY_300": "#D98FD0",
+        "PRIMARY_360": "#C273BE",
+        "PRIMARY_400": "#A855A0",
+        "PRIMARY_600": "#6E1E68",
+        "PRIMARY_630": "#641D5F",
+        "PRIMARY_660": "#591A54",
+        "PRIMARY_700": "#4B1548",
+        "PRIMARY_800": "#2E0C2C",
+        "BLACK_500": "#0A0508",
+        "BRAND_260": "#FF8DC7",
+        "BRAND_360": "#FF5AAE",
+        "BRAND_500": "#FF2E92",
+        "BRAND_560": "#E01E79",
+        "YELLOW_300": "#FFD23E",
+        "GREEN_600": "#7A8B2E",
+        "RED_400": "#FF3860",
+        "WHITE_500": "#FDF6EC",
+        "GREEN_360": "#A8C93F",
+        "BLUE_345": "#38C6FF",
+        "PLUM_24": "#703E78",
+        "PLUM_23": "#693A70",
+        "PLUM_22": "#613669",
+        "PLUM_20": "#563061",
+        "PLUM_19": "#502D5A",
+        "PLUM_18": "#4A2953",
+        "PLUM_17": "#44264D",
+        "PLUM_16": "#3E2246",
+        "PLUM_15": "#391F40",
+        "PLUM_13": "#301A36",
+        "PLUM_10": "#26152B",
+        "PLUM_3": "#130A17",
+        "PLUM_9": "#221327",
+        "PLUM_6": "#1A0E1F",
+        "PLUM_1": "#0D0710"
     },
     "background": {
         "url": "<img>",
-        "alpha": 1,
+        "alpha": 1
     },
-	"fonts": {
-		"ABCGintoNord-ExtraBold": "<font>",
-		"ggsans-Bold": "<font>",
-		"ggsans-BoldItalic": "<font>",
-		"ggsans-ExtraBold": "<font>",
-		"ggsans-ExtraBoldItalic": "<font>",
-		"ggsans-Medium": "<font>",
-		"ggsans-MediumItalic": "<font>",
-		"ggsans-Normal": "<font>",
-		"ggsans-NormalItalic": "<font>",
-		"ggsans-Semibold": "<font>",
-		"ggsans-SemiboldItalic": "<font>",
-		"NotoSans-Bold": "<font>",
-		"NotoSans-ExtraBold": "<font>",
-		"NotoSans-Medium": "<font>",
-		"NotoSans-Normal": "<font>",
-		"NotoSans-NormalItalic": "<font>",
-		"NotoSans-Semibold": "<font>",
-		"SourceCodePro-Semibold": "<font>",
-	  	"ggmono-Normal": "<font>"
-	},
-	"plus": {
-    "version": "0",
-    "iconpack": "<iconpack>"
-},
+    "fonts": {
+        "ABCGintoNord-ExtraBold": "<font>",
+        "ggsans-Bold": "<font>",
+        "ggsans-BoldItalic": "<font>",
+        "ggsans-ExtraBold": "<font>",
+        "ggsans-ExtraBoldItalic": "<font>",
+        "ggsans-Medium": "<font>",
+        "ggsans-MediumItalic": "<font>",
+        "ggsans-Normal": "<font>",
+        "ggsans-NormalItalic": "<font>",
+        "ggsans-Semibold": "<font>",
+        "ggsans-SemiboldItalic": "<font>",
+        "NotoSans-Bold": "<font>",
+        "NotoSans-ExtraBold": "<font>",
+        "NotoSans-Medium": "<font>",
+        "NotoSans-Normal": "<font>",
+        "NotoSans-NormalItalic": "<font>",
+        "NotoSans-Semibold": "<font>",
+        "SourceCodePro-Semibold": "<font>",
+        "ggmono-Normal": "<font>"
+    },
+    "plus": {
+        "version": "0",
+        "iconpack": "<iconpack>"
+    },
     "spec": 2
 }
